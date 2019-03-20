@@ -25,10 +25,10 @@ I know my knowledge of linear algebra is not very thorough, so I re-learn linear
 
 ---
 
-- [01. **方程组的几何解释**](https://github.com/apachecn/math/blob/master/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A.md)
-	 - [01.01 方程组的几何解释](https://github.com/apachecn/math/blob/master/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A.md)
-- [02. **矩阵消元**](https://github.com/apachecn/math/blob/master/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83.md)
-	 - [02.01 矩阵消元](https://github.com/apachecn/math/blob/master/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83.md)
+- [01. **方程组的几何解释**](https://github.com/guokaide/math/blob/master/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A.md)
+	 - [01.01 方程组的几何解释](https://github.com/guokaide/math/blob/master/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A.md)
+- [02. **矩阵消元**](https://github.com/guokaide/math/blob/master/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83.md)
+	 - [02.01 矩阵消元](https://github.com/guokaide/math/blob/master/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83.md)
 - [03. **乘法和逆矩阵**](https://github.com/apachecn/math/blob/master/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5.md)
 	 - [03.01 矩阵乘法和逆矩阵](https://github.com/apachecn/math/blob/master/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5.md)
 - [04. **A的LU分解**](https://github.com/apachecn/math/blob/master/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3.md)

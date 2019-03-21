@@ -2,13 +2,12 @@
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-课程顺序是按照麻省理工公开课的 [Linear Algebra](http://open.163.com/special/opencourse/daishu.html) 记录的学习笔记。
-
+麻省理工公开课 [Linear Algebra](http://open.163.com/special/opencourse/daishu.html) 学习笔记。
 
 
 ## Contents （目录）
 
----
+
 
 - [01. **方程组的几何解释**](https://github.com/guokaide/math/blob/master/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A.md)
 	 - [01.01 方程组的几何解释](https://github.com/guokaide/math/blob/master/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A.md)

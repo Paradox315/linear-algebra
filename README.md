@@ -2,24 +2,9 @@
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-+   [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
-+   [ApacheCN 学习资源](http://www.apachecn.org/)
-
-<!-- break -->
-
-+ [在线阅读](https://apachecn.github.io/math)
-
-## Overview （概述）
-
-Most of the content comes from the web.<br>
-大部分内容来自网络。
-
-I know my knowledge of linear algebra is not very thorough, so I re-learn linear algebra, record the corresponding notes.<br>
-由于我们对线性代数的知识了解不深，特意重新学习一次线代，记录下相应笔记。
-
 课程顺序是按照麻省理工公开课的 [Linear Algebra](http://open.163.com/special/opencourse/daishu.html) 记录的学习笔记。
 
-----
+
 
 ## Contents （目录）
 
@@ -29,8 +14,8 @@ I know my knowledge of linear algebra is not very thorough, so I re-learn linear
 	 - [01.01 方程组的几何解释](https://github.com/guokaide/math/blob/master/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A.md)
 - [02. **矩阵消元**](https://github.com/guokaide/math/blob/master/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83.md)
 	 - [02.01 矩阵消元](https://github.com/guokaide/math/blob/master/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83.md)
-- [03. **乘法和逆矩阵**](https://github.com/apachecn/math/blob/master/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5.md)
-	 - [03.01 矩阵乘法和逆矩阵](https://github.com/apachecn/math/blob/master/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5.md)
+- [03. **乘法和逆矩阵**](https://github.com/guokaide/math/blob/master/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5.md)
+	 - [03.01 矩阵乘法和逆矩阵](https://github.com/guokaide/math/blob/master/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5.md)
 - [04. **A的LU分解**](https://github.com/apachecn/math/blob/master/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3.md)
 	 - [04.01 A的LU分解](https://github.com/apachecn/math/blob/master/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3.md)
 - [05. **转置-置换-向量空间R**](https://github.com/apachecn/math/blob/master/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R.md)

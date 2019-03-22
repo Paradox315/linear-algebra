@@ -15,8 +15,8 @@
 	 - [02.01 矩阵消元](https://github.com/guokaide/math/blob/master/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83.md)
 - [03. **乘法和逆矩阵**](https://github.com/guokaide/math/blob/master/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5.md)
 	 - [03.01 矩阵乘法和逆矩阵](https://github.com/guokaide/math/blob/master/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5.md)
-- [04. **A的LU分解**](https://github.com/apachecn/math/blob/master/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3.md)
-	 - [04.01 A的LU分解](https://github.com/apachecn/math/blob/master/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3.md)
+- [04. **A的LU分解**](https://github.com/guokaide/math/blob/master/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3.md)
+	 - [04.01 A的LU分解](https://github.com/guokaide/math/blob/master/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3.md)
 - [05. **转置-置换-向量空间R**](https://github.com/apachecn/math/blob/master/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R.md)
 	 - [05.01 矩阵转置](https://github.com/apachecn/math/blob/master/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R.md)
 	 - [05.02 置换](https://github.com/apachecn/math/blob/master/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R.md)
@@ -107,7 +107,6 @@
 	 - [34.02 伪逆](https://github.com/apachecn/math/blob/master/34-%E5%B7%A6%E5%8F%B3%E9%80%86%E5%92%8C%E4%BC%AA%E9%80%86/34-%E5%B7%A6%E5%8F%B3%E9%80%86%E5%92%8C%E4%BC%AA%E9%80%86.md)
 - [35. **期末复习**](https://github.com/apachecn/math/blob/master/35-%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/35-%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.md)
 	 - [35.01 期末复习](https://github.com/apachecn/math/blob/master/35-%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/35-%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.md)
-
 
 ----
 

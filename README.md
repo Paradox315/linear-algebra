@@ -12,7 +12,7 @@
 - [04. **A的LU分解**](https://github.com/guokaide/math/blob/master/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3.md)
 - [05. **转置-置换-向量空间R**](https://github.com/guokaide/math/blob/master/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R.md)
 - [06. **列空间和零空间**](https://github.com/guokaide/math/blob/master/06-%E5%88%97%E7%A9%BA%E9%97%B4%E5%92%8C%E9%9B%B6%E7%A9%BA%E9%97%B4/06-%E5%88%97%E7%A9%BA%E9%97%B4%E5%92%8C%E9%9B%B6%E7%A9%BA%E9%97%B4.md)
-- [07. **求解Ax=0:主变量,特解**](https://github.com/apachecn/math/blob/master/07-%E6%B1%82%E8%A7%A3Ax=0-%E4%B8%BB%E5%8F%98%E9%87%8F-%E7%89%B9%E8%A7%A3/07-%E6%B1%82%E8%A7%A3Ax=0-%E4%B8%BB%E5%8F%98%E9%87%8F-%E7%89%B9%E8%A7%A3.md)
+- [07. **求解Ax=0:主变量,特解**](<https://github.com/guokaide/linear-algebra/blob/master/07-%E6%B1%82%E8%A7%A3Ax%3D0-%E4%B8%BB%E5%8F%98%E9%87%8F-%E7%89%B9%E8%A7%A3/07-%E6%B1%82%E8%A7%A3Ax%3D0-%E4%B8%BB%E5%8F%98%E9%87%8F-%E7%89%B9%E8%A7%A3.md>)
 - [08. **求解Ax=b:可解性和解的结构**](https://github.com/apachecn/math/blob/master/08-%E6%B1%82%E8%A7%A3Ax=b-%E5%8F%AF%E8%A7%A3%E6%80%A7%E5%92%8C%E8%A7%A3%E7%9A%84%E7%BB%93%E6%9E%84/08-%E6%B1%82%E8%A7%A3Ax=b-%E5%8F%AF%E8%A7%A3%E6%80%A7%E5%92%8C%E8%A7%A3%E7%9A%84%E7%BB%93%E6%9E%84.md)
 - [09. **线性相关性、基、维数**](https://github.com/apachecn/math/blob/master/09-%E7%BA%BF%E6%80%A7%E7%9B%B8%E5%85%B3%E6%80%A7-%E5%9F%BA-%E7%BB%B4%E6%95%B0/09-%E7%BA%BF%E6%80%A7%E7%9B%B8%E5%85%B3%E6%80%A7-%E5%9F%BA-%E7%BB%B4%E6%95%B0.md)
 - [10. **四个基本子空间**](https://github.com/apachecn/math/blob/master/10-%E5%9B%9B%E4%B8%AA%E5%9F%BA%E6%9C%AC%E5%AD%90%E7%A9%BA%E9%97%B4/10-%E5%9B%9B%E4%B8%AA%E5%9F%BA%E6%9C%AC%E5%AD%90%E7%A9%BA%E9%97%B4.md)

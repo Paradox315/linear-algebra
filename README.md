@@ -7,7 +7,15 @@
 ## Contents 
 
 - [01. **方程组的几何解释**](https://github.com/guokaide/math/blob/master/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A.md)
+  * Row picture 角度解释方程组
+  * Column picture 角度解释方程组
+  * 矩阵乘法初探
 - [02. **矩阵消元**](https://github.com/guokaide/math/blob/master/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83.md)
+  * 初等数学的视角看待消元法求解方程
+  * 矩阵变换的视角看待消元法求解方程（将初等变换的过程通过矩阵（乘法）表示，EA = U）
+  * 向量与矩阵的乘法：矩阵行与列的线性组合
+  * 置换矩阵初探：矩阵的行变换与列变换
+  * 逆矩阵初探：如何从 U -> A
 - [03. **乘法和逆矩阵**](https://github.com/guokaide/math/blob/master/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5.md)
 - [04. **A的LU分解**](https://github.com/guokaide/math/blob/master/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3.md)
 - [05. **转置-置换-向量空间R**](https://github.com/guokaide/math/blob/master/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R.md)

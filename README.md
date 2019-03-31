@@ -16,7 +16,7 @@
   * 向量与矩阵的乘法：矩阵行与列的线性组合
   * 置换矩阵初探：矩阵的行变换与列变换
   * 逆矩阵初探：如何从 U -> A
-- [03. **乘法和逆矩阵**](https://github.com/guokaide/math/blob/master/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5.md)
+- [03. **矩阵乘法和矩阵的逆**](https://github.com/guokaide/math/blob/master/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5.md)
 - [04. **A的LU分解**](https://github.com/guokaide/math/blob/master/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3/04-A%E7%9A%84LU%E5%88%86%E8%A7%A3.md)
 - [05. **转置-置换-向量空间R**](https://github.com/guokaide/math/blob/master/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R/05-%E8%BD%AC%E7%BD%AE-%E7%BD%AE%E6%8D%A2-%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4R.md)
 - [06. **列空间和零空间**](https://github.com/guokaide/math/blob/master/06-%E5%88%97%E7%A9%BA%E9%97%B4%E5%92%8C%E9%9B%B6%E7%A9%BA%E9%97%B4/06-%E5%88%97%E7%A9%BA%E9%97%B4%E5%92%8C%E9%9B%B6%E7%A9%BA%E9%97%B4.md)

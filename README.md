@@ -48,6 +48,10 @@
 
 - [11. **矩阵空间、秩1矩阵和小世界图**](https://github.com/apachecn/math/blob/master/11-%E7%9F%A9%E9%98%B5%E7%A9%BA%E9%97%B4-%E7%A7%A91%E7%9F%A9%E9%98%B5%E5%92%8C%E5%B0%8F%E4%B8%96%E7%95%8C%E5%9B%BE/11-%E7%9F%A9%E9%98%B5%E7%A9%BA%E9%97%B4-%E7%A7%A91%E7%9F%A9%E9%98%B5%E5%92%8C%E5%B0%8F%E4%B8%96%E7%95%8C%E5%9B%BE.md)
 
+  - 矩阵空间深入
+  - 秩一矩阵
+  - 小世界图初探：图论与线性代数
+
 - [12. **图和网络**](https://github.com/apachecn/math/blob/master/12-%E5%9B%BE%E5%92%8C%E7%BD%91%E7%BB%9C/12-%E5%9B%BE%E5%92%8C%E7%BD%91%E7%BB%9C.md)
 
 - [*13. 复习一*](https://github.com/apachecn/math/blob/master/13-%E5%A4%8D%E4%B9%A0%E4%B8%80/13-%E5%A4%8D%E4%B9%A0%E4%B8%80.md)
